@@ -1,0 +1,13 @@
+com\IOT\MiniProject\table\request\ReqUpInfoDevice.class
+com\IOT\MiniProject\table\request\ReqUpinfoSensor.class
+com\IOT\MiniProject\controller\APIResponse.class
+com\IOT\MiniProject\service\DeviceRepository.class
+com\IOT\MiniProject\controller\SensorController.class
+com\IOT\MiniProject\table\request\ReqAddDevice.class
+com\IOT\MiniProject\table\request\ReqUpValSensor.class
+com\IOT\MiniProject\Application.class
+com\IOT\MiniProject\service\SensorRepository.class
+com\IOT\MiniProject\table\Device.class
+com\IOT\MiniProject\table\request\ReqAddSensor.class
+com\IOT\MiniProject\controller\DeviceController.class
+com\IOT\MiniProject\table\Sensor.class
